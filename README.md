@@ -34,7 +34,7 @@ Implemented multi-site program contributing to a **97% reduction in eviction rat
 
 ---
 
-### Social Security Insurance Outreach Access and Recovery Process Tailoring  
+### Social Security Insurance Outreach Access and Recovery (SOAR) Process Tailoring  
 **Telecare – HART**  
 Adapted SSDI support process to improve access for clients.  
 👉 [View Full Case Study](./project4.md)
